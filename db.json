@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Books",
+      "email": "This is a body",
+      "phone": "1234"
+    },
+    {
+      "id": "6962cf2f-a939-492e-b288-56fa183d8c33",
+      "name": "Leanne Gra",
+      "email": "admin@orayarupio.com",
+      "phone": "122121"
+    },
+    {
+      "id": "23e2cce0-ec1d-41ce-b25f-af2a831d5eed",
+      "name": "",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "c6c4be1f-1ac7-4b05-b39a-c28e6fa1e113",
+      "name": "aki",
+      "email": "john@gmail.com",
+      "phone": "1212"
+    },
+    {
+      "id": "d95207bf-46a7-4906-86a3-2445c5ce8723",
+      "name": "",
+      "email": "",
+      "phone": ""
+    }
+  ]
+}
